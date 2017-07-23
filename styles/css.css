@@ -1,0 +1,62 @@
+				body{
+					 font-family: 'Fauna One', Fallback, serif;
+				}
+				h1,h3{
+					
+					font-family: 'cabin', Fallback, serif;
+				}
+            
+			section {
+                height: 100vh;
+                width: 100vw;
+                padding: 50px;
+            }
+            .cl_white{
+                    color: white;
+            }
+            img {
+                width: 400px;
+                height: 200px; 
+                transition: opacity 1s ease in-out;
+            }
+            img:hover {
+                opacity: .5;
+            }
+            
+        #tag1{
+                    margin-left: -500px;
+                    margin-bottom: -100px;
+                }
+            #intro{
+                margin-top: 10px; 
+                margin-bottom: 20px;
+                max-width: 105ch;
+                font-size: 18px;
+                line-height: 27px;
+                text-align: left;
+                margin-left: 150px;
+                margin-right: 150px;
+            }
+            #list{
+                margin-left: 150px;
+            }
+            #about{
+                margin-top: -50px; 
+                text-align: center;
+                
+            }
+            #button{
+                margin-left: 450px;
+            }
+            #contact{
+                margin-top: -250px;
+                height: 50vh;
+                width: 70vw;
+                padding: 25px;
+            }
+            #home{
+                max-height: 500px;
+            }
+            #imageline{
+                margin-left: 150px;
+            }
